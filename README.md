@@ -324,7 +324,7 @@ python test_main.py
 
 ---
 
-## 🔮 Future Roadmap
+## 🔮 Future 
 
 - [ ] 🎛️ **Multi-Extension Support:** Add options to categorize files by type (`.png`, `.pdf`, `.docx`, `.mp4`).
 - [ ] 📅 **Date-Based Organization:** Organize photos into subfolders by year and month from EXIF metadata.
@@ -333,26 +333,7 @@ python test_main.py
 
 ---
 
-## 📤 GitHub Upload & Repository Commands
 
-To push this repository to GitHub:
-
-```bash
-# 1. Check current status
-git status
-
-# 2. Stage all files
-git add .
-
-# 3. Commit changes
-git commit -m "docs: enhance README with icons, badges, and detailed architecture"
-
-# 4. Set remote origin
-git remote set-url origin https://github.com/pranithakoyyalamudi-blip/Task-automation-.git
-
-# 5. Push to GitHub main branch
-git push -u origin main
-```
 
 ---
 

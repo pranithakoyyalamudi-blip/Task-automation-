@@ -1,0 +1,9 @@
+# CodeAlpha_File_Organizer_Automation
+# ====================================
+# This project uses ONLY Python Standard Library modules:
+# - os
+# - shutil
+# - sys
+#
+# No external pip packages are required.
+# Compatible with Python 3.8+

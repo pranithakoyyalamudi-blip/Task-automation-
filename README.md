@@ -339,7 +339,7 @@ python test_main.py
 
 ## 👤 Author & Acknowledgments
 
-- **Intern:** Harsh
+- **Intern:** pranitha
 - **Program:** CodeAlpha Python Programming Internship
 - **Task:** Task 3 — File Organizer Automation
 - **Organization:** [CodeAlpha](https://www.codealpha.tech/)
